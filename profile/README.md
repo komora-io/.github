@@ -37,11 +37,11 @@
       </tr>
       <tr>
         <td><a href="https://github.com/komora-io/fault-injection">fault-injection</a></td>
-        <td>if you have io::Error handling code, you should be using this crate to trigger it</td>
+        <td>if you have io::Error handling code, use this</td>
       </tr>
       <tr>
         <td><a href="https://github.com/komora-io/shared-local-state">shared-local-state</a></td>
-        <td>manage dynamic state that needs to be shared across concurrent threads</td>
+        <td>manage dynamic concurrent thread state</td>
       </tr>
       <tr>
         <td><a href="https://github.com/komora-io/pagecache">pagecache</a></td>
