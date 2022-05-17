@@ -10,23 +10,23 @@
       </tr>
       <tr>
         <td>wtf?</td>
-        <td>declassified components for constructing industrial stateful systems</td>
+        <td>declassified industrial stateful system components</td>
       </tr>
       <tr>
         <td><a href="https://github.com/komora-io/marble">marble</a></td>
-        <td>garbage-collecting object store, built on top of tiny-lsm and pagetable</td>
+        <td>garbage-collecting object store</td>
       </tr>
       <tr>
         <td><a href="https://github.com/komora-io/sharded-log">sharded-log</a></td>
-        <td>atomic batch-aware low-contention logger</td>
+        <td>low-contention logger</td>
       </tr>
       <tr>
         <td><a href="https://github.com/komora-io/tiny-lsm">tiny-lsm</a></td>
-        <td>an extremely high performance atomic batch-aware metadata store</td>
+        <td>KV for fixed-size items</td>
       </tr>
       <tr>
         <td><a href="https://github.com/komora-io/ebr">ebr</a></td>
-        <td>extremely efficient epoch-based reclamation</td>
+        <td>epoch-based reclamation</td>
       </tr>
       <tr>
         <td><a href="https://github.com/komora-io/pagetable">pagetable</a></td>
@@ -34,11 +34,11 @@
       </tr>
       <tr>
         <td><a href="https://github.com/komora-io/art">art</a></td>
-        <td>adaptive radix trie for somewhat-clumpy fixed-size keys</td>
+        <td>adaptive radix trie</td>
       </tr>
       <tr>
         <td><a href="https://github.com/komora-io/fault-injection">fault-injection</a></td>
-        <td>if you have io::Error handling code, use this</td>
+        <td>io::Error testing triggers and source annotation</td>
       </tr>
       <tr>
         <td><a href="https://github.com/komora-io/shared-local-state">shared-local-state</a></td>
