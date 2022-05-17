@@ -4,7 +4,9 @@
   <td>
     <table style="width:100%">
       <tr>
-        <td><b><p style="color:red">key</p></b></td>
+        <td><b>
+          
+        </b></td>
         <td><b>value</b></td>
       </tr>
       <tr>
@@ -23,7 +25,7 @@
   </td>
   <td>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/spacejam/sled/main/art/tree_face_anti-transphobia.png" width="40%" height="auto" />
+  <img src="https://raw.githubusercontent.com/komora-io/.github/main/profile/Screenshot%202022-05-17%20at%2009-26-30%20Komora.png" width="40%" height="auto" />
   </p>
   </td>
  </tr>
