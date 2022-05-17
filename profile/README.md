@@ -25,7 +25,7 @@
       </tr>
       <tr>
         <td><a href="https://github.com/komora-io/ebr">ebr</a></td>
-        <td>extremely efficient epoch-based reclamation, built on top of shared-local-state</td>
+        <td>extremely efficient epoch-based reclamation</td>
       </tr>
       <tr>
         <td><a href="https://github.com/komora-io/pagetable">pagetable</a></td>
