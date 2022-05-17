@@ -4,8 +4,8 @@
   <td>
     <table style="width:100%">
       <tr>
-        <td> key </td>
-        <td> value </td>
+        <td> **key** </td>
+        <td> **value** </td>
       </tr>
       <tr>
         <td>wtf?</td>
