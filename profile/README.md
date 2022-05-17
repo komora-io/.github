@@ -15,7 +15,7 @@
   </td>
   <td>
     <p align="center">
-      <img src="https://raw.githubusercontent.com/komora-io/.github/main/profile/Screenshot%202022-05-17%20at%2009-26-30%20Komora.png" width="40%" height="auto" />
+      <img src="https://raw.githubusercontent.com/komora-io/.github/main/profile/Screenshot%202022-05-17%20at%2009-26-30%20Komora.png" width="50%" height="auto" />
     </p>
   </td>
  </tr>
