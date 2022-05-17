@@ -9,7 +9,7 @@
         <td><b>value</b></td>
       </tr>
       <tr>
-        <td>wtf?</td>
+        <td>wtf are these?</td>
         <td>declassified industrial stateful system components</td>
       </tr>
       <tr>
