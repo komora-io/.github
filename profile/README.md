@@ -13,23 +13,23 @@
       </tr>
       <tr>
         <td><a href="https://github.com/komora-io/marble">marble</a></td>
-        <td>garbage-collecting object store for building your own kv or db on top of, built on top of tiny-lsm and pagetable</td>
+        <td>garbage-collecting object store, built on top of tiny-lsm and pagetable</td>
       </tr>
       <tr>
         <td><a href="https://github.com/komora-io/sharded-log">sharded-log</a></td>
-        <td>atomic batch-aware low-contention logger that recovers logged items in-order, log updates here before periodically compacting them into Marble</td>
+        <td>atomic batch-aware low-contention logger</td>
       </tr>
       <tr>
         <td><a href="https://github.com/komora-io/tiny-lsm">tiny-lsm</a></td>
-        <td>an extremely high performance kv store for constant-sized keys and values, supporting atomic write batches, ideal for managing system metadata</td>
+        <td>an extremely high performance atomic batch-aware metadata store</td>
       </tr>
       <tr>
         <td><a href="https://github.com/komora-io/ebr">ebr</a></td>
-        <td>extremely efficient epoch-based reclamation for deferring actions until after concurrent threads may be finished, built on top of shared-local-state</td>
+        <td>extremely efficient epoch-based reclamation, built on top of shared-local-state</td>
       </tr>
       <tr>
         <td><a href="https://github.com/komora-io/pagetable">pagetable</a></td>
-        <td>wait-free 4-level pagetable that maps from u64 to &AtomicU64, ideal for managing concurrent metadata or shared state</td>
+        <td>concurrent (wait-free!) 4-level pagetable</td>
       </tr>
       <tr>
         <td><a href="https://github.com/komora-io/art">art</a></td>
