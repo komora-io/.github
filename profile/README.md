@@ -13,11 +13,11 @@
       </tr>
       <tr>
         <td><a href="https://github.com/komora-io/marble">marble</a></td>
-        <td>object store for building your own kv or db, built on top of tiny-lsm and pagetable</td>
+        <td>garbage-collecting object store for building your own kv or db on top of, built on top of tiny-lsm and pagetable</td>
       </tr>
       <tr>
         <td><a href="https://github.com/komora-io/sharded-log">sharded-log</a></td>
-        <td>log updates here before periodically compacting them into Marble</td>
+        <td>atomic batch-aware low-contention logger that recovers logged items in-order, log updates here before periodically compacting them into Marble</td>
       </tr>
       <tr>
         <td><a href="https://github.com/komora-io/tiny-lsm">tiny-lsm</a></td>
