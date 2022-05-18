@@ -56,14 +56,6 @@
         <td><a href="https://github.com/komora-io/tx">tx</a></td>
         <td>coming soon</td>
       </tr>
-      <tr>
-        <td><a href="https://github.com/komora-io/marx">marx</a></td>
-        <td>coming soon</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/komora-io/lacan">lacan</a></td>
-        <td>coming soon</td>
-      </tr>
      </table>
   </td>
   <td>
