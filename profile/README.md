@@ -49,7 +49,7 @@
         <td>coming soon</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/komora-io/berghain">berghain</a></td>
+        <td><a href="https://github.com/komora-io/cache-advisor">cache-advisor</a></td>
         <td>coming soon</td>
       </tr>
       <tr>
