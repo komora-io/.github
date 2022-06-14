@@ -50,7 +50,7 @@
       </tr>
       <tr>
         <td><a href="https://github.com/komora-io/cache-advisor">cache-advisor</a></td>
-        <td>coming soon</td>
+        <td>scan-resistant non-blocking sharded concurrent LRU</td>
       </tr>
       <tr>
         <td><a href="https://github.com/komora-io/tx">tx</a></td>
