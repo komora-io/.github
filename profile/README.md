@@ -17,6 +17,10 @@
         <td>garbage-collecting object store</td>
       </tr>
       <tr>
+        <td><a href="https://github.com/komora-io/concurrent-map">concurrent-map</a></td>
+        <td>lock-free in-memory B+ tree</td>
+      </tr>
+      <tr>
         <td><a href="https://github.com/komora-io/sharded-log">sharded-log</a></td>
         <td>low-contention logger</td>
       </tr>
