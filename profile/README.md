@@ -60,6 +60,10 @@
         <td><a href="https://github.com/komora-io/tx">tx</a></td>
         <td>coming soon</td>
       </tr>
+      <tr>
+        <td><a href="https://github.com/komora-io/optimistic-cell">optimistic-cell</a></td>
+        <td>lock-like structure for highly efficient scalable concurrent access</td>
+      </tr>
      </table>
   </td>
   <td>
