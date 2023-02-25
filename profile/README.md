@@ -64,6 +64,10 @@
         <td><a href="https://github.com/komora-io/optimistic-cell">optimistic-cell</a></td>
         <td>lock-like structure for highly efficient scalable concurrent access</td>
       </tr>
+      <tr>
+        <td><a href="https://github.com/komora-io/stack-map">stack-map</a></td>
+        <td>constant-size associative structure for composing into high-level structures</td>
+      </tr>
      </table>
   </td>
   <td>
