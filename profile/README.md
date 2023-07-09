@@ -49,8 +49,8 @@
         <td>manage dynamic concurrent thread state</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/komora-io/pagecache">pagecache</a></td>
-        <td>coming soon</td>
+        <td><a href="https://github.com/komora-io/inline-array">inline-array</a></td>
+        <td>DB-focused low-space shared byte array container</td>
       </tr>
       <tr>
         <td><a href="https://github.com/komora-io/cache-advisor">cache-advisor</a></td>
