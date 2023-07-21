@@ -57,8 +57,8 @@
         <td>scan-resistant non-blocking sharded concurrent LRU</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/komora-io/tx">tx</a></td>
-        <td>coming soon</td>
+        <td><a href="https://github.com/komora-io/metadata-store">metadata-store</a></td>
+        <td>a write and recovery-only store for u64->NonZeroU64+bytes mappings</td>
       </tr>
       <tr>
         <td><a href="https://github.com/komora-io/optimistic-cell">optimistic-cell</a></td>
