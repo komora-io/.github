@@ -21,6 +21,10 @@
         <td>lock-free in-memory B+ tree</td>
       </tr>
       <tr>
+        <td><a href="https://github.com/komora-io/terrors">terrors</a></td>
+        <td>precise error handling built atop type-level set arithmetic</td>
+      </tr>
+      <tr>
         <td><a href="https://github.com/komora-io/sharded-log">sharded-log</a></td>
         <td>low-contention logger</td>
       </tr>
